@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="/Volumes/Arquivos/WorkspaceFormula/MyTest" value="2933423432000" />
+        <entry key="/Volumes/Arquivos/WorkspaceFormula/gradle-test" value="1462211412000" />
+        <entry key="/Volumes/Arquivos/workspace-pos-management/upp-pos-management-ui" value="2987857900000" />
+        <entry key="/Volumes/Arquivos/workspace-upp-refactor/upp-pos-analytics-admin" value="2916286777000" />
+        <entry key="/Volumes/Arquivos/workspace-upp/upp-pos-analytics-admin" value="2957105786000" />
+        <entry key="/Volumes/Arquivos/workspace-upp/upp-pos-management-ui" value="2957097268000" />
+        <entry key="/Volumes/Arquivos/workspace-upp/upp-sku-management-ui" value="2957093202000" />
+        <entry key="/Volumes/SAFEZONE/Workspace/upp-linux-repository-service" value="12023262496000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="/Volumes/Arquivos/WorkspaceFormula/jgpio" value="PREVIEW" />
+        <entry key="/Volumes/Arquivos/WorkspaceFormula/s3Atualizador" value="PREVIEW" />
+        <entry key="/Volumes/SAFEZONE/Workspace/upp-basic-project-single" value="PREVIEW" />
+        <entry key="/Volumes/SAFEZONE/Workspace/upp-basic-project/upp-linux-update-service" value="PREVIEW" />
+        <entry key="/Volumes/SAFEZONE/Workspace/upp-device-builder" value="PREVIEW" />
+        <entry key="/Volumes/SAFEZONE/Workspace/upp-linux-packages" value="PREVIEW" />
+        <entry key="/Volumes/SAFEZONE/Workspace/upp-linux-repository-service" value="PREVIEW" />
+        <entry key="/Volumes/SAFEZONE/Workspace/upp-pacman-server-local" value="PREVIEW" />
+        <entry key="/Volumes/SAFEZONE/Workspace/uvc-cam" value="PREVIEW" />
+        <entry key="/Volumes/SAFEZONE/uppoints/router-firmware-burner" value="PREVIEW" />
+        <entry key="/Volumes/SAFEZONE/uppoints/upp-router-packages" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
