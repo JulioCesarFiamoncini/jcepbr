@@ -1,6 +1,6 @@
 package org.formula;
 
-public class Main {
+public class StartJCepBr {
     public static void main(String[] args) throws Exception {
 
         Endereco[] enderecos = new Endereco[0];
